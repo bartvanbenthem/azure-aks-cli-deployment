@@ -1,0 +1,11 @@
+#!/bin/bash
+export SUBSCRIPTIONAZD='subscription-id'
+export AKSNAMEAZD='cluster-name'
+export TENNANTIDAZD='tenant-id'
+export VNETAZD='vnet-id'
+export SUBNETAZD='subnet-id'
+export RESOURCEGROUPAZD='resource-group-name'
+export LOCATIONAZD='location'
+export KUBEVERSIONAZD='aks-version'
+export ADMINAZD='admin-account-name'
+export DNSPREFIXAZD='dns-prefix-apiadress'
